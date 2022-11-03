@@ -1,0 +1,3 @@
+# particle-vanilla-js
+You can add the particle a small par of your website by modifying positionment, with and height in #canvas1 id or add the file in your own project...
+Need more particles? read the js code comments
